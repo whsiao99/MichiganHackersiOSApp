@@ -6,7 +6,76 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>143D1BE4-982C-4531-A6C3-ACB19DC1A2A4</key>
+		<key>0FCCD3D5-862D-46E0-AE17-DCE2BD6E4B5F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>0FCCD3D5-862D-46E0-AE17-DCE2BD6E4B5F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>GoogleToolboxForMac-esrevungibnneccbgvlsdgygnbdg</string>
+			<key>timeStartedRecording</key>
+			<real>562205609.67822301</real>
+			<key>timeStoppedRecording</key>
+			<real>562205609.79444802</real>
+			<key>title</key>
+			<string>Build target GoogleToolboxForMac</string>
+			<key>uniqueIdentifier</key>
+			<string>0FCCD3D5-862D-46E0-AE17-DCE2BD6E4B5F</string>
+		</dict>
+		<key>171FD888-C1EB-4DF3-82DF-6368D95D5327</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>171FD888-C1EB-4DF3-82DF-6368D95D5327.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>GTMOAuth2-esrevungibnneccbgvlsdgygnbdg</string>
+			<key>timeStartedRecording</key>
+			<real>562205609.75409102</real>
+			<key>timeStoppedRecording</key>
+			<real>562205609.811921</real>
+			<key>title</key>
+			<string>Build target GTMOAuth2</string>
+			<key>uniqueIdentifier</key>
+			<string>171FD888-C1EB-4DF3-82DF-6368D95D5327</string>
+		</dict>
+		<key>470A5F4B-6ABC-41B1-8715-0E437DE015AA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>470A5F4B-6ABC-41B1-8715-0E437DE015AA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>GTMSessionFetcher-esrevungibnneccbgvlsdgygnbdg</string>
+			<key>timeStartedRecording</key>
+			<real>562205609.67765498</real>
+			<key>timeStoppedRecording</key>
+			<real>562205609.77564204</real>
+			<key>title</key>
+			<string>Build target GTMSessionFetcher</string>
+			<key>uniqueIdentifier</key>
+			<string>470A5F4B-6ABC-41B1-8715-0E437DE015AA</string>
+		</dict>
+		<key>795599DF-9576-4660-9C69-33815ABFABDF</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,21 +84,21 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>143D1BE4-982C-4531-A6C3-ACB19DC1A2A4.xcactivitylog</string>
+			<string>795599DF-9576-4660-9C69-33815ABFABDF.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>S</string>
 			<key>signature</key>
 			<string>Michigan_Hackers-aboxrmlyfqprypbprbcmhzmhrudw</string>
 			<key>timeStartedRecording</key>
-			<real>559790018.52549195</real>
+			<real>562210967.48553598</real>
 			<key>timeStoppedRecording</key>
-			<real>559790053.477561</real>
+			<real>562210972.37427795</real>
 			<key>title</key>
 			<string>Build target Michigan Hackers</string>
 			<key>uniqueIdentifier</key>
-			<string>143D1BE4-982C-4531-A6C3-ACB19DC1A2A4</string>
+			<string>795599DF-9576-4660-9C69-33815ABFABDF</string>
 		</dict>
-		<key>3BDA6C98-4953-4084-B0A2-65168095C200</key>
+		<key>A847AB0C-C7CF-4D11-8269-FDC205E81BB9</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -38,67 +107,21 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
 			<key>fileName</key>
-			<string>3BDA6C98-4953-4084-B0A2-65168095C200.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>signature</key>
-			<string>GoogleAPIClientForREST-esrevungibnneccbgvlsdgygnbdg</string>
-			<key>timeStartedRecording</key>
-			<real>559790018.52404702</real>
-			<key>timeStoppedRecording</key>
-			<real>559790038.38533604</real>
-			<key>title</key>
-			<string>Build target GoogleAPIClientForREST</string>
-			<key>uniqueIdentifier</key>
-			<string>3BDA6C98-4953-4084-B0A2-65168095C200</string>
-		</dict>
-		<key>517BC34A-908F-43DE-8924-68E158059030</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
-			<key>fileName</key>
-			<string>517BC34A-908F-43DE-8924-68E158059030.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>signature</key>
-			<string>JTAppleCalendar-esrevungibnneccbgvlsdgygnbdg</string>
-			<key>timeStartedRecording</key>
-			<real>559790018.52898896</real>
-			<key>timeStoppedRecording</key>
-			<real>559790038.12146294</real>
-			<key>title</key>
-			<string>Build target JTAppleCalendar</string>
-			<key>uniqueIdentifier</key>
-			<string>517BC34A-908F-43DE-8924-68E158059030</string>
-		</dict>
-		<key>763A41DA-F511-4829-A63D-745C7DF157BC</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
-			<key>fileName</key>
-			<string>763A41DA-F511-4829-A63D-745C7DF157BC.xcactivitylog</string>
+			<string>A847AB0C-C7CF-4D11-8269-FDC205E81BB9.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>S</string>
 			<key>signature</key>
-			<string>GTMOAuth2-esrevungibnneccbgvlsdgygnbdg</string>
+			<string>GoogleAPIClientForREST-esrevungibnneccbgvlsdgygnbdg</string>
 			<key>timeStartedRecording</key>
-			<real>559790018.51837099</real>
+			<real>562205609.61122</real>
 			<key>timeStoppedRecording</key>
-			<real>559790044.25064397</real>
+			<real>562205609.79194295</real>
 			<key>title</key>
-			<string>Build target GTMOAuth2</string>
+			<string>Build target GoogleAPIClientForREST</string>
 			<key>uniqueIdentifier</key>
-			<string>763A41DA-F511-4829-A63D-745C7DF157BC</string>
+			<string>A847AB0C-C7CF-4D11-8269-FDC205E81BB9</string>
 		</dict>
-		<key>99488FCD-3D40-4587-8D18-821517D65AB2</key>
+		<key>AB4ACB1A-7EB8-42E5-9608-9C2FB9F7E708</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -107,21 +130,44 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
 			<key>fileName</key>
-			<string>99488FCD-3D40-4587-8D18-821517D65AB2.xcactivitylog</string>
+			<string>AB4ACB1A-7EB8-42E5-9608-9C2FB9F7E708.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>JTAppleCalendar-esrevungibnneccbgvlsdgygnbdg</string>
+			<key>timeStartedRecording</key>
+			<real>562205609.66899097</real>
+			<key>timeStoppedRecording</key>
+			<real>562205609.80051601</real>
+			<key>title</key>
+			<string>Build target JTAppleCalendar</string>
+			<key>uniqueIdentifier</key>
+			<string>AB4ACB1A-7EB8-42E5-9608-9C2FB9F7E708</string>
+		</dict>
+		<key>DAEFB8BA-D80B-47D5-BCD0-3E059E98F5B5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>DAEFB8BA-D80B-47D5-BCD0-3E059E98F5B5.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>S</string>
 			<key>signature</key>
 			<string>Pods-Michigan_Hackers-esrevungibnneccbgvlsdgygnbdg</string>
 			<key>timeStartedRecording</key>
-			<real>559790018.52150702</real>
+			<real>562205609.78408694</real>
 			<key>timeStoppedRecording</key>
-			<real>559790044.335253</real>
+			<real>562205609.82503295</real>
 			<key>title</key>
 			<string>Build target Pods-Michigan Hackers</string>
 			<key>uniqueIdentifier</key>
-			<string>99488FCD-3D40-4587-8D18-821517D65AB2</string>
+			<string>DAEFB8BA-D80B-47D5-BCD0-3E059E98F5B5</string>
 		</dict>
-		<key>A5212322-9CB0-4150-832B-B8821673373E</key>
+		<key>FA3A58CE-29C8-4AB7-83A1-525C2B7155D0</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -130,65 +176,19 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
 			<key>fileName</key>
-			<string>A5212322-9CB0-4150-832B-B8821673373E.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>signature</key>
-			<string>GTMSessionFetcher-esrevungibnneccbgvlsdgygnbdg</string>
-			<key>timeStartedRecording</key>
-			<real>559790018.52210605</real>
-			<key>timeStoppedRecording</key>
-			<real>559790038.07974303</real>
-			<key>title</key>
-			<string>Build target GTMSessionFetcher</string>
-			<key>uniqueIdentifier</key>
-			<string>A5212322-9CB0-4150-832B-B8821673373E</string>
-		</dict>
-		<key>BE50A273-BA25-430E-AAA8-196B7A850FDC</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
-			<key>fileName</key>
-			<string>BE50A273-BA25-430E-AAA8-196B7A850FDC.xcactivitylog</string>
+			<string>FA3A58CE-29C8-4AB7-83A1-525C2B7155D0.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>S</string>
 			<key>signature</key>
 			<string>IGListKit-esrevungibnneccbgvlsdgygnbdg</string>
 			<key>timeStartedRecording</key>
-			<real>559790018.52608502</real>
+			<real>562205609.67171502</real>
 			<key>timeStoppedRecording</key>
-			<real>559790038.128631</real>
+			<real>562205609.80686295</real>
 			<key>title</key>
 			<string>Build target IGListKit</string>
 			<key>uniqueIdentifier</key>
-			<string>BE50A273-BA25-430E-AAA8-196B7A850FDC</string>
-		</dict>
-		<key>DFAD8331-4421-429B-B259-CAEB6C856691</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
-			<key>fileName</key>
-			<string>DFAD8331-4421-429B-B259-CAEB6C856691.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>signature</key>
-			<string>GoogleToolboxForMac-esrevungibnneccbgvlsdgygnbdg</string>
-			<key>timeStartedRecording</key>
-			<real>559790018.507375</real>
-			<key>timeStoppedRecording</key>
-			<real>559790038.094473</real>
-			<key>title</key>
-			<string>Build target GoogleToolboxForMac</string>
-			<key>uniqueIdentifier</key>
-			<string>DFAD8331-4421-429B-B259-CAEB6C856691</string>
+			<string>FA3A58CE-29C8-4AB7-83A1-525C2B7155D0</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

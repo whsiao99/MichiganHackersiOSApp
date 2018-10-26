@@ -243,6 +243,7 @@ SWIFT_CLASS("_TtC16Michigan_Hackers15EventController")
 - (void)viewDidLoad;
 - (void)viewDidLayoutSubviews;
 - (void)signIn:(GIDSignIn * _Null_unspecified)signIn didSignInForUser:(GIDGoogleUser * _Null_unspecified)user withError:(NSError * _Null_unspecified)error;
+- (void)userProfileClick;
 - (void)fetchEvents;
 - (void)storeEventsWithTicket:(GTLRServiceTicket * _Nonnull)ticket finishedWithObject:(GTLRCalendar_Events * _Nonnull)response error:(NSError * _Nullable)error;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;

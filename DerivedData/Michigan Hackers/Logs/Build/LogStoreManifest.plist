@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>C510070D-7164-4149-9FB2-E2FAFEFC6616</key>
+		<key>054C55B9-B06D-406D-ABE2-2AB2A66A97F8</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,65 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>C510070D-7164-4149-9FB2-E2FAFEFC6616.xcactivitylog</string>
+			<string>054C55B9-B06D-406D-ABE2-2AB2A66A97F8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562210967.09216702</real>
+			<key>timeStoppedRecording</key>
+			<real>562210972.74277198</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>054C55B9-B06D-406D-ABE2-2AB2A66A97F8</string>
+		</dict>
+		<key>05BD05D7-4C1D-4A9D-9E25-BA472C89271A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>05BD05D7-4C1D-4A9D-9E25-BA472C89271A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562207004.273507</real>
+			<key>timeStoppedRecording</key>
+			<real>562207011.53184402</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>05BD05D7-4C1D-4A9D-9E25-BA472C89271A</string>
+		</dict>
+		<key>0D91BCE2-E5DD-42F3-AB17-6DED53CC52C6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0D91BCE2-E5DD-42F3-AB17-6DED53CC52C6.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -27,13 +85,1318 @@
 			<key>signature</key>
 			<string>Build Michigan Hackers</string>
 			<key>timeStartedRecording</key>
-			<real>559790017.82325494</real>
+			<real>562210757.26769495</real>
 			<key>timeStoppedRecording</key>
-			<real>559790053.55737805</real>
+			<real>562210764.08483195</real>
 			<key>title</key>
 			<string>Build Michigan Hackers</string>
 			<key>uniqueIdentifier</key>
-			<string>C510070D-7164-4149-9FB2-E2FAFEFC6616</string>
+			<string>0D91BCE2-E5DD-42F3-AB17-6DED53CC52C6</string>
+		</dict>
+		<key>102EF4D4-2506-4104-BC3F-3FA833DB6577</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>102EF4D4-2506-4104-BC3F-3FA833DB6577.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562207589.44852901</real>
+			<key>timeStoppedRecording</key>
+			<real>562207594.56730604</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>102EF4D4-2506-4104-BC3F-3FA833DB6577</string>
+		</dict>
+		<key>10DBEBF8-698A-49E2-8861-054F3484B724</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>10DBEBF8-698A-49E2-8861-054F3484B724.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562206077.33525205</real>
+			<key>timeStoppedRecording</key>
+			<real>562206084.02278197</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>10DBEBF8-698A-49E2-8861-054F3484B724</string>
+		</dict>
+		<key>18044758-C64F-4F71-BF30-1C3512E3B27D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>18044758-C64F-4F71-BF30-1C3512E3B27D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562208985.62883496</real>
+			<key>timeStoppedRecording</key>
+			<real>562208990.87511206</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>18044758-C64F-4F71-BF30-1C3512E3B27D</string>
+		</dict>
+		<key>1A822344-F066-4541-AC6A-25588AF5540A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1A822344-F066-4541-AC6A-25588AF5540A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562204993.95920002</real>
+			<key>timeStoppedRecording</key>
+			<real>562205001.175529</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>1A822344-F066-4541-AC6A-25588AF5540A</string>
+		</dict>
+		<key>1F160D1E-9F5B-4E5C-BBA4-819171EB25B6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1F160D1E-9F5B-4E5C-BBA4-819171EB25B6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562208563.84868896</real>
+			<key>timeStoppedRecording</key>
+			<real>562208571.22754598</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>1F160D1E-9F5B-4E5C-BBA4-819171EB25B6</string>
+		</dict>
+		<key>247E662C-99DC-4C61-84E9-7A4C6D6A1889</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>247E662C-99DC-4C61-84E9-7A4C6D6A1889.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562210415.781973</real>
+			<key>timeStoppedRecording</key>
+			<real>562210423.14868796</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>247E662C-99DC-4C61-84E9-7A4C6D6A1889</string>
+		</dict>
+		<key>3065733F-962C-4024-AAC0-6CC11EFCC7CC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3065733F-962C-4024-AAC0-6CC11EFCC7CC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562208828.43407595</real>
+			<key>timeStoppedRecording</key>
+			<real>562208834.73768604</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>3065733F-962C-4024-AAC0-6CC11EFCC7CC</string>
+		</dict>
+		<key>3165C804-B954-47C7-ADD6-16BF9FCBACC1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3165C804-B954-47C7-ADD6-16BF9FCBACC1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562205038.32700098</real>
+			<key>timeStoppedRecording</key>
+			<real>562205045.82637596</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>3165C804-B954-47C7-ADD6-16BF9FCBACC1</string>
+		</dict>
+		<key>3291E098-6621-4E96-B721-FE73B33AAD59</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3291E098-6621-4E96-B721-FE73B33AAD59.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562209796.71323097</real>
+			<key>timeStoppedRecording</key>
+			<real>562209804.43381798</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>3291E098-6621-4E96-B721-FE73B33AAD59</string>
+		</dict>
+		<key>32FF50D8-F8EF-42A2-912B-C4932843C5C5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>32FF50D8-F8EF-42A2-912B-C4932843C5C5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562209068.04851604</real>
+			<key>timeStoppedRecording</key>
+			<real>562209073.93491602</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>32FF50D8-F8EF-42A2-912B-C4932843C5C5</string>
+		</dict>
+		<key>3A1A7982-23F1-4022-AE87-1C683DB50459</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3A1A7982-23F1-4022-AE87-1C683DB50459.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562209017.56080997</real>
+			<key>timeStoppedRecording</key>
+			<real>562209024.22120905</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>3A1A7982-23F1-4022-AE87-1C683DB50459</string>
+		</dict>
+		<key>3B53DD32-D2E6-42C9-8209-7626133E1C64</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3B53DD32-D2E6-42C9-8209-7626133E1C64.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562207209.89702594</real>
+			<key>timeStoppedRecording</key>
+			<real>562207215.48159897</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>3B53DD32-D2E6-42C9-8209-7626133E1C64</string>
+		</dict>
+		<key>3C395F71-3BBD-4AFB-B943-3F944BBDA291</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3C395F71-3BBD-4AFB-B943-3F944BBDA291.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562207352.51917601</real>
+			<key>timeStoppedRecording</key>
+			<real>562207356.25081003</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>3C395F71-3BBD-4AFB-B943-3F944BBDA291</string>
+		</dict>
+		<key>3EC836B3-DFEE-4663-96FE-874DC7585580</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3EC836B3-DFEE-4663-96FE-874DC7585580.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562210186.41085303</real>
+			<key>timeStoppedRecording</key>
+			<real>562210193.01802003</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>3EC836B3-DFEE-4663-96FE-874DC7585580</string>
+		</dict>
+		<key>4A8AFA3B-282C-45A4-B889-1E9C7ECBEF78</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4A8AFA3B-282C-45A4-B889-1E9C7ECBEF78.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562210571.494174</real>
+			<key>timeStoppedRecording</key>
+			<real>562210578.00418496</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>4A8AFA3B-282C-45A4-B889-1E9C7ECBEF78</string>
+		</dict>
+		<key>4BDFAE19-E913-4B38-A05A-28759FBA15E8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4BDFAE19-E913-4B38-A05A-28759FBA15E8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562207363.58137405</real>
+			<key>timeStoppedRecording</key>
+			<real>562207369.38753998</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>4BDFAE19-E913-4B38-A05A-28759FBA15E8</string>
+		</dict>
+		<key>4CFE5A9C-4222-483E-BD62-7463D5419269</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4CFE5A9C-4222-483E-BD62-7463D5419269.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562210530.96615505</real>
+			<key>timeStoppedRecording</key>
+			<real>562210537.32305706</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>4CFE5A9C-4222-483E-BD62-7463D5419269</string>
+		</dict>
+		<key>5CBD2232-0B33-41D0-ABA3-018ADBC2C723</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5CBD2232-0B33-41D0-ABA3-018ADBC2C723.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562207083.05128002</real>
+			<key>timeStoppedRecording</key>
+			<real>562207089.80032003</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>5CBD2232-0B33-41D0-ABA3-018ADBC2C723</string>
+		</dict>
+		<key>7511D8C8-551D-464D-ACAE-4857646E0788</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7511D8C8-551D-464D-ACAE-4857646E0788.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562207107.67523503</real>
+			<key>timeStoppedRecording</key>
+			<real>562207113.51125705</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>7511D8C8-551D-464D-ACAE-4857646E0788</string>
+		</dict>
+		<key>751C5E4B-7E1A-46C8-8C8E-40F8D0C417CA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>751C5E4B-7E1A-46C8-8C8E-40F8D0C417CA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562210799.86640298</real>
+			<key>timeStoppedRecording</key>
+			<real>562210802.03031504</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>751C5E4B-7E1A-46C8-8C8E-40F8D0C417CA</string>
+		</dict>
+		<key>772BB401-435C-4B92-814F-E0CD32D6ACD6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>772BB401-435C-4B92-814F-E0CD32D6ACD6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562210503.58935106</real>
+			<key>timeStoppedRecording</key>
+			<real>562210508.846071</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>772BB401-435C-4B92-814F-E0CD32D6ACD6</string>
+		</dict>
+		<key>88910694-DC1B-4DA4-A2BF-A50A241794A5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>88910694-DC1B-4DA4-A2BF-A50A241794A5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562207043.14444995</real>
+			<key>timeStoppedRecording</key>
+			<real>562207050.68486798</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>88910694-DC1B-4DA4-A2BF-A50A241794A5</string>
+		</dict>
+		<key>8EF9FF8D-8BE1-4DC3-BFDF-94BC592C2775</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8EF9FF8D-8BE1-4DC3-BFDF-94BC592C2775.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562205696.73078597</real>
+			<key>timeStoppedRecording</key>
+			<real>562205702.16374695</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>8EF9FF8D-8BE1-4DC3-BFDF-94BC592C2775</string>
+		</dict>
+		<key>96A38F26-5566-493E-9342-9D558AB9611A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>96A38F26-5566-493E-9342-9D558AB9611A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>561598675.21234</real>
+			<key>timeStoppedRecording</key>
+			<real>561598681.44295394</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>96A38F26-5566-493E-9342-9D558AB9611A</string>
+		</dict>
+		<key>9CBCC648-FBF8-4F30-BCB1-84AC9F09A16B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9CBCC648-FBF8-4F30-BCB1-84AC9F09A16B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562210455.918836</real>
+			<key>timeStoppedRecording</key>
+			<real>562210461.93673503</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>9CBCC648-FBF8-4F30-BCB1-84AC9F09A16B</string>
+		</dict>
+		<key>9EF30E18-FD90-4099-B5C1-6017FD400164</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9EF30E18-FD90-4099-B5C1-6017FD400164.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562210737.908005</real>
+			<key>timeStoppedRecording</key>
+			<real>562210739.47671294</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>9EF30E18-FD90-4099-B5C1-6017FD400164</string>
+		</dict>
+		<key>A1CFA585-F46C-4255-BC42-A4FEEB05B44E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A1CFA585-F46C-4255-BC42-A4FEEB05B44E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562207546.10312796</real>
+			<key>timeStoppedRecording</key>
+			<real>562207552.67213595</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>A1CFA585-F46C-4255-BC42-A4FEEB05B44E</string>
+		</dict>
+		<key>A23DD24C-EED6-43E3-BB91-FA2DB313F0C3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A23DD24C-EED6-43E3-BB91-FA2DB313F0C3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562208478.10542202</real>
+			<key>timeStoppedRecording</key>
+			<real>562208479.46246696</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>A23DD24C-EED6-43E3-BB91-FA2DB313F0C3</string>
+		</dict>
+		<key>B02AAEEC-FBCC-4AF4-B46D-34CF64DE2DBC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B02AAEEC-FBCC-4AF4-B46D-34CF64DE2DBC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562207690.23071396</real>
+			<key>timeStoppedRecording</key>
+			<real>562207695.41049802</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>B02AAEEC-FBCC-4AF4-B46D-34CF64DE2DBC</string>
+		</dict>
+		<key>B2B49E5C-73C7-4BA0-99F0-9730CB0345BE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B2B49E5C-73C7-4BA0-99F0-9730CB0345BE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562208430.78031194</real>
+			<key>timeStoppedRecording</key>
+			<real>562208436.38683903</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>B2B49E5C-73C7-4BA0-99F0-9730CB0345BE</string>
+		</dict>
+		<key>B5009BCA-0F95-4607-AB52-93FCE490E2AA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B5009BCA-0F95-4607-AB52-93FCE490E2AA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562208489.68469203</real>
+			<key>timeStoppedRecording</key>
+			<real>562208495.88764</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>B5009BCA-0F95-4607-AB52-93FCE490E2AA</string>
+		</dict>
+		<key>B5704485-5BB8-4E49-B459-8633B28A778B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B5704485-5BB8-4E49-B459-8633B28A778B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562209973.85599506</real>
+			<key>timeStoppedRecording</key>
+			<real>562209979.51932597</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>B5704485-5BB8-4E49-B459-8633B28A778B</string>
+		</dict>
+		<key>B767B50E-DEDC-4BE3-B263-7149875F1A72</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B767B50E-DEDC-4BE3-B263-7149875F1A72.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562209044.286322</real>
+			<key>timeStoppedRecording</key>
+			<real>562209050.93504906</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>B767B50E-DEDC-4BE3-B263-7149875F1A72</string>
+		</dict>
+		<key>B8A3E232-4AC2-4FB4-953B-56E09C0B2C99</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B8A3E232-4AC2-4FB4-953B-56E09C0B2C99.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562210262.49980605</real>
+			<key>timeStoppedRecording</key>
+			<real>562210269.76910305</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>B8A3E232-4AC2-4FB4-953B-56E09C0B2C99</string>
+		</dict>
+		<key>BF228758-D684-45F8-8E6C-756792DA1D74</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BF228758-D684-45F8-8E6C-756792DA1D74.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562208119.22026098</real>
+			<key>timeStoppedRecording</key>
+			<real>562208125.64592099</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>BF228758-D684-45F8-8E6C-756792DA1D74</string>
+		</dict>
+		<key>C38FCE5C-B9D6-4D7C-8DEF-7A230A45CCFA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C38FCE5C-B9D6-4D7C-8DEF-7A230A45CCFA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562209896.57685006</real>
+			<key>timeStoppedRecording</key>
+			<real>562209903.04784501</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>C38FCE5C-B9D6-4D7C-8DEF-7A230A45CCFA</string>
+		</dict>
+		<key>C7F53078-E49D-4A91-958A-B8EF14D63B8D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C7F53078-E49D-4A91-958A-B8EF14D63B8D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562205608.09739196</real>
+			<key>timeStoppedRecording</key>
+			<real>562205617.76089799</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>C7F53078-E49D-4A91-958A-B8EF14D63B8D</string>
+		</dict>
+		<key>D6C7074E-1421-47F4-89F7-2A5CD9E5E2D6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D6C7074E-1421-47F4-89F7-2A5CD9E5E2D6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562202487.90745795</real>
+			<key>timeStoppedRecording</key>
+			<real>562202488.67198706</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>D6C7074E-1421-47F4-89F7-2A5CD9E5E2D6</string>
+		</dict>
+		<key>DB40BADA-48E3-49E8-9802-33E56B9A60BE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DB40BADA-48E3-49E8-9802-33E56B9A60BE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562207739.273597</real>
+			<key>timeStoppedRecording</key>
+			<real>562207744.01436102</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>DB40BADA-48E3-49E8-9802-33E56B9A60BE</string>
+		</dict>
+		<key>DD30373D-6737-42B2-A1C7-79E7A8082204</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DD30373D-6737-42B2-A1C7-79E7A8082204.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562204241.26977599</real>
+			<key>timeStoppedRecording</key>
+			<real>562204253.85800898</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>DD30373D-6737-42B2-A1C7-79E7A8082204</string>
+		</dict>
+		<key>E3C77193-956A-4CD4-8512-E6A67BA17925</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E3C77193-956A-4CD4-8512-E6A67BA17925.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562204950.92518198</real>
+			<key>timeStoppedRecording</key>
+			<real>562204958.97379601</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>E3C77193-956A-4CD4-8512-E6A67BA17925</string>
+		</dict>
+		<key>E5577239-35E4-4DCC-8063-6DCE0B356ED8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E5577239-35E4-4DCC-8063-6DCE0B356ED8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562209126.10858703</real>
+			<key>timeStoppedRecording</key>
+			<real>562209131.40588498</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>E5577239-35E4-4DCC-8063-6DCE0B356ED8</string>
+		</dict>
+		<key>EE819661-A092-4652-83CE-14FB019CAC7F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EE819661-A092-4652-83CE-14FB019CAC7F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562208250.011078</real>
+			<key>timeStoppedRecording</key>
+			<real>562208255.588907</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>EE819661-A092-4652-83CE-14FB019CAC7F</string>
+		</dict>
+		<key>F14B2285-9D03-4EB9-9D5F-BB3F8E1629A9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F14B2285-9D03-4EB9-9D5F-BB3F8E1629A9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562208594.47607195</real>
+			<key>timeStoppedRecording</key>
+			<real>562208601.66125298</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>F14B2285-9D03-4EB9-9D5F-BB3F8E1629A9</string>
+		</dict>
+		<key>FCF44A5C-57F8-44AC-B821-3C97E496B814</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FCF44A5C-57F8-44AC-B821-3C97E496B814.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Michigan Hackers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Michigan Hackers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Michigan Hackers</string>
+			<key>timeStartedRecording</key>
+			<real>562208276.57896805</real>
+			<key>timeStoppedRecording</key>
+			<real>562208282.60632098</real>
+			<key>title</key>
+			<string>Build Michigan Hackers</string>
+			<key>uniqueIdentifier</key>
+			<string>FCF44A5C-57F8-44AC-B821-3C97E496B814</string>
 		</dict>
 	</dict>
 </dict>

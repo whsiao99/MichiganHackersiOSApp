@@ -2,16 +2,38 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
-	<string>QuartzCore</string>
-	<string>JTAppleCalendar</string>
-	<string>GoogleAPIClientForREST</string>
-	<string>CoreData</string>
-	<string>IGListKit</string>
-	<string>Foundation</string>
-	<string>GoogleSignIn</string>
-	<string>objc</string>
+	<string>GoogleMobileAds</string>
 	<string>Cocoa</string>
-	<string>UIKit</string>
+	<string>FirebaseDynamicLinks</string>
+	<string>objc</string>
+	<string>FirebaseAuth</string>
+	<string>GGLCore</string>
+	<string>FirebaseCore</string>
+	<string>IGListKit</string>
+	<string>FirebaseMessaging</string>
+	<string>CoreData</string>
+	<string>sys</string>
+	<string>GTMSessionFetcherIOS</string>
+	<string>GTMSessionFetcher</string>
+	<string>FirebaseInstanceID</string>
+	<string>FirebaseDatabase</string>
+	<string>FirebaseRemoteConfig</string>
+	<string>WatchKit</string>
+	<string>Foundation</string>
+	<string>QuartzCore</string>
+	<string>Security</string>
+	<string>JTAppleCalendar</string>
+	<string>FirebaseCrash</string>
+	<string>GoogleSignIn</string>
+	<string>GGLSignIn</string>
+	<string>FirebaseAppIndexing</string>
+	<string>GoogleAPIClientForREST</string>
+	<string>FirebaseInvites</string>
 	<string>AppKit</string>
+	<string>FirebaseStorage</string>
+	<string>SystemConfiguration</string>
+	<string>FirebaseAnalytics</string>
+	<string>GTMSessionFetcherOSX</string>
+	<string>UIKit</string>
 </array>
 </plist>
